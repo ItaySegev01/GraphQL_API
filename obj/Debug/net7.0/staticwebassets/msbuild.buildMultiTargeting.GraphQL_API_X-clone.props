@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GraphQL_API_X-clone.props" />
+</Project>
