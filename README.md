@@ -28,7 +28,7 @@ A step-by-step guide on how to get the development environment set up:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ItaySegev01/GraphQL_API_X-clone.git
+   git clone https://github.com/ItaySegev01/GraphQL_API.git
 
 ### Licence 
 
